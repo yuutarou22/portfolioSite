@@ -9,3 +9,7 @@
 https://html5up.net/
 
 CC-BY3.0(Creative Commons Attribution 3.0)に則り、サイト内にクレジットを記載しております。
+
+## 執筆
+備忘録としてブログ記事にまとめました。
+https://pursue.fun/tech/portfolio-publish-on-server/
